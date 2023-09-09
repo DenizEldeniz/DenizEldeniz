@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PersonalPortfolio](https://github.com/DenizEldeniz/PersonalPortfolio)
 
-- 🌱 I’m currently learning **JavaScript** **Responsive**
+- 🌱 I’m currently learning **JavaScript** ,, **Responsive**
 
 - 📫 How to reach me **denizeldeniz07@gmail.com**
 
