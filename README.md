@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizeldeniz&label=Profile%20views&color=0e75b6&style=flat" alt="denizeldeniz" /> </p>
 
-- 🔭 I’m currently working on [PersonalPortfolio](https://github.com/DenizEldeniz/PersonalPortfolio)
+- 🔭 I’m currently working on [Discord Clone](https://github.com/DenizEldeniz/discord-clone)
 
 - 🌱 I’m currently learning **JavaScript** ,, **Responsive**
 
