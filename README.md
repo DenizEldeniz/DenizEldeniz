@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Discord Clone](https://github.com/DenizEldeniz/discord-clone)
 
-- 🌱 I’m currently learning **JavaScript** ,, **Responsive**
+- 🌱 I’m currently learning **JavaScript** 
 
 - 📫 How to reach me **denizeldeniz07@gmail.com**
 
