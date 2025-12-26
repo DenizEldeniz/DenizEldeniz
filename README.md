@@ -18,15 +18,3 @@ Studying Computer Engineering
 <img src="https://img.icons8.com/?size=100&id=o0pte3XTuPWi&format=png&color=000000" alt=".net" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=DenizEldeniz&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizEldeniz&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenizEldeniz&theme=radical" alt="GitHub Streak" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=DenizEldeniz" alt="trophy" />
-
